@@ -21,7 +21,6 @@
 
 	--avatar-radius: 50%; /*	-	*/
 	--app-font: "gg sans";
-	--sidebar-panel-color: var(--main-alt);
 	
 	--message-radius: 19px;
 	--message-padding-top: 8px;
@@ -34,4 +33,8 @@
 
 	--popout-radius: 8px;
 	--popout-radius-big: 18px;
+}
+
+.theme-dark {
+	--sidebar-panel-color: var(--main-alt);
 }
